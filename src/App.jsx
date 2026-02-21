@@ -1,6 +1,5 @@
 import { Navbar, Welcome } from "@components"
 
-
 const App = () => {
     return (
         <main>
