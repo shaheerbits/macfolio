@@ -91,7 +91,7 @@ const Welcome = () => {
                 {renderText("Hey, I'm Shaheer! Welcome to my", "text-3xl font-georama", 100)}
             </p>
 
-            <h1 ref={titleRef} className="mt-7">
+            <h1 ref={titleRef} className="mt-3">
                 {renderText("portfolio", "text-9xl italic font-georama")}
             </h1>
 
